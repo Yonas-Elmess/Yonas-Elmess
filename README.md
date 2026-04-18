@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Youness 👋
 
-<!--
-**Yonas-Elmess/Yonas-Elmess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student at ISGA (1ère année cycle ingénieur), specializing in Computer Science. I build things — from physical embedded systems to full-stack web applications. Currently working toward a cybersecurity path.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🔴 Journal Lumineux](https://github.com/Yonas-Elmess/journal-lumineux-bluetooth) | Bluetooth-controlled scrolling LED display — fully built and 3D printed | C++, Arduino, Proteus |
+| [🌐 Multisite Network](https://github.com/Yonas-Elmess/multisite-network-cisco) | Multi-site enterprise network design and configuration for a fictional Moroccan company | Cisco Packet Tracer |
+| [💰 DirhamyApp](https://github.com/Yonas-Elmess/DirhamyApp) | Full-stack personal budget app for Moroccan users with AI-powered financial analysis | Next.js, TypeScript, PostgreSQL, Claude AI |
+| [🅿️ Smart Parking](https://github.com/Yonas-Elmess/smart-parking-system) | Intelligent parking management system with Swing GUI | Java, OOP |
+| [🏥 Clinic Intranet](https://github.com/Yonas-Elmess/clinic-intranet-website) | Internal intranet website built during a professional internship | HTML, CSS, JavaScript |
+
+---
+
+## Skills
+
+```
+Languages       C · C++ · Java · Python · JavaScript · TypeScript · HTML · CSS
+Frameworks      Next.js · React · Tailwind CSS · Swing
+Databases       PostgreSQL · Prisma ORM
+Networking      IP addressing · Static routing · Cisco IOS · Packet Tracer
+Embedded        Arduino · SPI · UART · Bluetooth (HC-06) · MAX7219
+Tools           Git · VS Code · IntelliJ · Proteus ISIS · Blender
+```
+
+---
+
+## Currently
+
+- Building **DirhamyApp** — a full-stack budget management app (active PFA project)
+- Learning **ethical hacking and penetration testing**
+- Looking for a **cybersecurity internship** — Morocco, end of June 2025
+
+---
+
+<sub>📍 Morocco · 📧 reach me via GitHub</sub>
