@@ -33,7 +33,7 @@ Tools           Git · VS Code · IntelliJ · Proteus ISIS · Blender
 
 - Building **DirhamyApp** — a full-stack budget management app (active PFA project)
 - Learning **ethical hacking and penetration testing**
-- Looking for a **cybersecurity internship** — Morocco, end of June 2025
+- Looking for a **cybersecurity internship** — Morocco
 
 ---
 
